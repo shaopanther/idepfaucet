@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/idepfaucet/static/css/main.f6aa1dac.chunk.css",
+    "main.js": "/idepfaucet/static/js/main.6584cedb.chunk.js",
+    "main.js.map": "/idepfaucet/static/js/main.6584cedb.chunk.js.map",
+    "runtime-main.js": "/idepfaucet/static/js/runtime-main.dd0c529b.js",
+    "runtime-main.js.map": "/idepfaucet/static/js/runtime-main.dd0c529b.js.map",
+    "static/css/2.f2512455.chunk.css": "/idepfaucet/static/css/2.f2512455.chunk.css",
+    "static/js/2.ecbc76cc.chunk.js": "/idepfaucet/static/js/2.ecbc76cc.chunk.js",
+    "static/js/2.ecbc76cc.chunk.js.map": "/idepfaucet/static/js/2.ecbc76cc.chunk.js.map",
+    "static/js/3.4df9fd76.chunk.js": "/idepfaucet/static/js/3.4df9fd76.chunk.js",
+    "static/js/3.4df9fd76.chunk.js.map": "/idepfaucet/static/js/3.4df9fd76.chunk.js.map",
+    "index.html": "/idepfaucet/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/idepfaucet/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.f6aa1dac.chunk.css.map": "/idepfaucet/static/css/main.f6aa1dac.chunk.css.map",
+    "static/js/2.ecbc76cc.chunk.js.LICENSE.txt": "/idepfaucet/static/js/2.ecbc76cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd0c529b.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.ecbc76cc.chunk.js",
+    "static/css/main.f6aa1dac.chunk.css",
+    "static/js/main.6584cedb.chunk.js"
+  ]
+}
